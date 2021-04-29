@@ -16,3 +16,12 @@ linha{
   font-weight: 700;
   font-size: 1.1rem;
 } 
+teste1{
+  height:50px;
+  font-size: 1.5rem;
+  padding: 20px 0 5px; 
+  font-weight: 700;
+  color: hsl(300,100%,60%);
+  display: block;
+  background-color: hsl(145, 100%,25%);
+}
