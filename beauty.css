@@ -6,7 +6,7 @@ linha{
   background-color: hsl(210, 100%,50%);
 }
 .btn-flor{
-  width: 250px;
+  width: 350px;
   height:75px;
   line-height: 1;
   color: black;
@@ -14,4 +14,5 @@ linha{
   border: 0;
   cursor: pointer;
   font-weight: 700;
+  font-size: 1.1rem;
 } 
