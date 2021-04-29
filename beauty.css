@@ -4,6 +4,14 @@ linha{
   color: orange;
   display: block;
   background-color: hsl(210, 100%,50%);
-
-
 }
+.btn-flor{
+  width: 250px;
+  height:75px;
+  line-height: 1;
+  color: black;
+  background-color:hsl(310,90%,50%);
+  border: 0;
+  cursor: pointer;
+  font-weight: 700;
+} 

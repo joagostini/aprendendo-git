@@ -1,2 +1,4 @@
 <DEV65> Inicia hoje o processo de formação de um desenvolvedor front-end aos 65 anos de idade, inaugurando uma nova etapa.
 A chance de sucesso é minima, tanto porque posso morrer amanhã, esta idade já não é de conforto para o corpo, como também posso nunca conseguir um trabalho. Em suma, 'oh vida, oh azar' -os velhos entenderam- posso não sair do lugar, mas, mesmo assim, é melhor tentar andar do que ficar parado olhando o horizonte. Pelo menos você vê coisas novas e dá uma nova chance para que a paixão pelo mundo volte e tome conta do seu espírito.
+Agora estou me concentrando no conhecimento do Git, pois todos os youtubers de cursos de empresas, como independentes, aconcelham o checimento deste instrumental, pois ele é amplamente usado nas empresas,
+Hoje há muito trabalho em equipe e o Git é uma das ferramenteas disponíveis para realizar essa tarefa.
