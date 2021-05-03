@@ -12,3 +12,6 @@ Esta frase só será visivil no ramo teste1 e não aparecerá no master.
 
 Erro, a frase que começa com Introduzi..., feita no ramo master aparece no ramo teste1 porque o documento README.md não foi salvo quando da mudança. Ele foi comitado em master, mas o texto foi salvo em teste1. Assim, em teste1
 com o comando git diff, Introduzi..., Esta frase..., Erro... aparecem para ser commitados em teste1.
+
+Zerando os erros nos ramos principal e teste1. Esta linha aparece nos dois (mais ou menos igual).
+Esta linha é exclusiva do ramo teste1.
